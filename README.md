@@ -22,6 +22,9 @@ Here are some ideas to get you started:
 
 
 
+
+
+
 ### Contact me:
 
 [<img align="left" alt="gennsev.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
