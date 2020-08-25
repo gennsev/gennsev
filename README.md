@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 <br />
 
-#### I'm a Data Scientist and Researcher 
+**I'm a Data Scientist and Researcher**
 - 🌱 I’m currently learning: Deep Learning and NLP
 - 👯 I’m looking to collaborate on: any innovative project :)
 - ⚡ Fun fact: I'm a writer as a hobby
@@ -46,5 +46,8 @@ Here are some ideas to get you started:
 <br />
 <br />
 
+**GitHub Stats:** 
+
 ![Gennaro's github stats](https://github-readme-stats.gennsev.vercel.app/api?username=gennsev)
+<br />
 ![Top Langs](https://github-readme-stats.gennsev.vercel.app/api/top-langs/?username=gennsev&layout=compact)
