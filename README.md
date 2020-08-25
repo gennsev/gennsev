@@ -16,10 +16,12 @@ Here are some ideas to get you started:
 ### Hi there. I'm Gennaro, aka [gennsev](www.gennsev.com) 👋 
 [<img align="left" alt="gennsev.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Kaggle" width="22px" src="http://simpleicons.org/icons/kaggle.svg" />][kaggle]
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [website]: https://gennsev.com
 [twitter]: https://twitter.com/gennsev
+[kaggle]: https://www.kaggle.com/gennarorodrigues
 [linkedin]: https://www.linkedin.com/in/gennaro-rodrigues-518a4020/
 
 <br />
