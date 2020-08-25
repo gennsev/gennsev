@@ -23,9 +23,9 @@ I'm Gennaro, aka [gennsev](www.gennsev.com) 👋
 - ⚡ Fun fact: I'm a writer as a hobby
 
 
-![Gennaro's github stats](https://github-readme-stats.vercel.app/api?username=gennsev)
+![Gennaro's github stats](https://github-readme-stats.gennsev.vercel.app/api?username=gennsev)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gennsev&layout=compact)
+![Top Langs](https://github-readme-stats.gennsev.vercel.app/api/top-langs/?username=gennsev&layout=compact)
 
 
 ### Contact me:
