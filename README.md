@@ -16,13 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-:zap: Github Stats
 <img align="left" alt="gennsev's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=gennsev&show_icons=true&hide_border=true" />
-
-
-
-
 
 
 ### Contact me:
