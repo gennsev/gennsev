@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 I'm Gennaro, aka [gennsev](www.gennsev.com) 👋 
 
 ## I'm a Data Scientist and Researcher 
-- 🌱 I’m currently learning Deep Learning and NLP
-- 👯 I’m looking to collaborate on any innovative projects :)
+- 🌱 I’m currently learning: Deep Learning and NLP
+- 👯 I’m looking to collaborate on: any innovative project :)
 - 📫 How to reach me: scroll down and contact me
 - ⚡ Fun fact: I'm a writer as a hobby
 
