@@ -23,6 +23,8 @@ Here are some ideas to get you started:
 [linkedin]: https://www.linkedin.com/in/gennaro-rodrigues-518a4020/
 
 <br />
+<br />
+
 
 **I'm a Data Scientist and Researcher**
 - 🌱 I’m currently learning: Deep Learning and NLP
