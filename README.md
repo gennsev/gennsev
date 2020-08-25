@@ -34,16 +34,16 @@ Here are some ideas to get you started:
 
 **Favorite Languages and Tools:** 
 
-<img align="left" alt="Python" width="26px" src="http://simpleicons.org/icons/python.svg" />
-<img align="left" alt="TF" width="26px" src="http://simpleicons.org/icons/tensorflow.svg" />
-<img align="left" alt="Keras" width="26px" src="http://simpleicons.org/icons/keras.svg" />
-<img align="left" alt="VSCode" width="26px" src="http://simpleicons.org/icons/visualstudiocode.svg" />
-<img align="left" alt="Atom" width="26px" src="http://simpleicons.org/icons/atom.svg" />
-<img align="left" alt="Jupyter" width="26px" src="http://simpleicons.org/icons/jupyter.svg" />
-<img align="left" alt="Git" width="26px" src="http://simpleicons.org/icons/git.svg" />
-<img align="left" alt="Docker" width="26px" src="http://simpleicons.org/icons/docker.svg" />
-<img align="left" alt="HUGO" width="26px" src="http://simpleicons.org/icons/hugo.svg" />
-<img align="left" alt="Netlify" width="26px" src="http://simpleicons.org/icons/netlify.svg" />
+<img align="left" alt="Python" width="20px" src="http://simpleicons.org/icons/python.svg" />
+<img align="left" alt="TF" width="20px" src="http://simpleicons.org/icons/tensorflow.svg" />
+<img align="left" alt="Keras" width="20px" src="http://simpleicons.org/icons/keras.svg" />
+<img align="left" alt="VSCode" width="20px" src="http://simpleicons.org/icons/visualstudiocode.svg" />
+<img align="left" alt="Atom" width="20px" src="http://simpleicons.org/icons/atom.svg" />
+<img align="left" alt="Jupyter" width="20px" src="http://simpleicons.org/icons/jupyter.svg" />
+<img align="left" alt="Git" width="20px" src="http://simpleicons.org/icons/git.svg" />
+<img align="left" alt="Docker" width="20px" src="http://simpleicons.org/icons/docker.svg" />
+<img align="left" alt="HUGO" width="20px" src="http://simpleicons.org/icons/hugo.svg" />
+<img align="left" alt="Netlify" width="20px" src="http://simpleicons.org/icons/netlify.svg" />
 
 <br />
 <br />
