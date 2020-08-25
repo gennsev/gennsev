@@ -1,6 +1,3 @@
-### Hi there 👋 
-I'm Gennaro, aka [gennsev](www.gennsev.com)
-
 <!--
 **gennsev/gennsev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,10 +10,22 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: 
 -->
 
-<img align="left" alt="gennsev's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=gennsev&show_icons=true&hide_border=true" />
+### Hi there 
+I'm Gennaro, aka [gennsev](www.gennsev.com) 👋 
+
+## I'm a Data Scientist and Researcher 
+- 🌱 I’m currently learning Deep Learning and NLP
+- 👯 I’m looking to collaborate on any innovative projects :)
+- 📫 How to reach me: scroll down and contact me
+- ⚡ Fun fact: I'm a writer as a hobby
+
+
+![Gennaro's github stats](https://github-readme-stats.vercel.app/api?username=gennsev)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gennsev&layout=compact)
 
 
 ### Contact me:
