@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Gennaro, [gennsev](www.gennsev.com)
+### Hi there 👋 I'm Gennaro, aka [gennsev](www.gennsev.com)
 
 <!--
 **gennsev/gennsev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
