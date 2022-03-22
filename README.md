@@ -46,12 +46,3 @@ Here are some ideas to get you started:
 <img align="left" alt="Docker" width="20px" src="http://simpleicons.org/icons/docker.svg" />
 <img align="left" alt="HUGO" width="20px" src="http://simpleicons.org/icons/hugo.svg" />
 <img align="left" alt="Netlify" width="20px" src="http://simpleicons.org/icons/netlify.svg" />
-
-<br />
-<br />
-
-**GitHub Stats:** 
-
-![Gennaro's github stats](https://github-readme-stats.gennsev.vercel.app/api?username=gennsev)
-<br />
-![Top Langs](https://github-readme-stats.gennsev.vercel.app/api/top-langs/?username=gennsev&layout=compact)
